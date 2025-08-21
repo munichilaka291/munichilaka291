@@ -10,7 +10,7 @@ I build production-ready projects and ship practical solutions. 🚀
 ---
 
 ## 🔎 Quick Facts
-- 🎯 Role: Software Developer & AI Enthusiast  
+- 🎯 Role: Data Analyst  & AI Enthusiast  
 - 📍 Location: Cumbum, Prakasam Dist, Andhra Pradesh, India  
 - 🎓 B.Tech — Computer Science (Final Year, Narasaraopeta Engineering College) — **CGPA: 8.0/10**  
 - ⚡ Motto: *Never Give Up*  

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #0f1720; stroke: #1f2933; stroke-width: 1; rx: 8; }
+    .emoji { font-size: 36px; }
+    .label { fill: #e6eef8; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; }
+    .sub { fill: #9aa4af; font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0b0e11" />
+
+  <!-- Card 1 -->
+  <g transform="translate(30,18)">
+    <rect class="card" width="140" height="120" rx="8" />
+    <text x="70" y="48" text-anchor="middle" class="emoji">🏆</text>
+    <text x="70" y="78" text-anchor="middle" class="label">Commits</text>
+    <text x="70" y="102" text-anchor="middle" class="sub">Middle Committer · 54pt</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(190,18)">
+    <rect class="card" width="140" height="120" rx="8" />
+    <text x="70" y="48" text-anchor="middle" class="emoji">🏅</text>
+    <text x="70" y="78" text-anchor="middle" class="label">Experience</text>
+    <text x="70" y="102" text-anchor="middle" class="sub">Junior Dev · 9pt</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(350,18)">
+    <rect class="card" width="140" height="120" rx="8" />
+    <text x="70" y="48" text-anchor="middle" class="emoji">📦</text>
+    <text x="70" y="78" text-anchor="middle" class="label">Repositories</text>
+    <text x="70" y="102" text-anchor="middle" class="sub">First Repository · 8pt</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(510,18)">
+    <rect class="card" width="140" height="120" rx="8" />
+    <text x="70" y="48" text-anchor="middle" class="emoji">⭐</text>
+    <text x="70" y="78" text-anchor="middle" class="label">Stars</text>
+    <text x="70" y="102" text-anchor="middle" class="sub">Unknown · 0pt</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g transform="translate(670,18)">
+    <rect class="card" width="140" height="120" rx="8" />
+    <text x="70" y="48" text-anchor="middle" class="emoji">👥</text>
+    <text x="70" y="78" text-anchor="middle" class="label">Followers</text>
+    <text x="70" y="102" text-anchor="middle" class="sub">Unknown · 0pt</text>
+  </g>
+
+  <!-- Card 6 -->
+  <g transform="translate(830,18)">
+    <rect class="card" width="140" height="120" rx="8" />
+    <text x="70" y="48" text-anchor="middle" class="emoji">⚠️</text>
+    <text x="70" y="78" text-anchor="middle" class="label">Issues</text>
+    <text x="70" y="102" text-anchor="middle" class="sub">Unknown · 0pt</text>
+  </g>
+</svg>
